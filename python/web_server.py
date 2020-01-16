@@ -1,5 +1,7 @@
 """
-$ env FLASK_APP=web_server.py flask run
+https://www.palletsprojects.com/p/flask/
+
+>>> env FLASK_APP=web_server.py flask run
  * Serving Flask app "web_server"
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 """
